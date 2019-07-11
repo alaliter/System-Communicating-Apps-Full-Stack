@@ -41,5 +41,4 @@ It's easier to call funtions by some static function to reach the database.
 
 React
 In front end, react files and set of websites are bulit by different big components, Student, Course, Enrollment, Grade and Assistantship and their realated Card file which parse jason files to this.state and get specific data. These data is fetched to a big table in every main compentents. For multilple url api, a specific method is used to concatenate them together to get server data. By 'PATCH', the 'grade' and 'assistantship' can be updated and send to back end. So PAWS and SLATE can access.
-# System-Communicating-Apps---Full-Stack
-# System-Communicating-Apps-Full-Stack
+
